@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica_Recicleview</string>
+    <string-array name="names_txt">
+        <item>Xbox </item>
+        <item>PlayStation </item>
+        <item>Nintendo</item>
+    </string-array>
+    <string-array name="gen_txt">
+        <item>One</item>
+        <item>PS5</item>
+        <item>Switch</item>
+    </string-array>
+</resources>
